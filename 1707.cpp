@@ -54,4 +54,5 @@ int main(){
         }
         if(i==V+1) cout << "YES\n";
     }
+    return 0;
 }
