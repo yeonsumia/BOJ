@@ -3,4 +3,4 @@ project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BOJ 11725.cpp)
+add_executable(BOJ 1167.cpp)
