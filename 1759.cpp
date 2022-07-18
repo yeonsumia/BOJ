@@ -37,7 +37,6 @@ int main() {
     int i;
     cin >> L >> C;
 
-
     char c;
     for(i=0;i<C;i++){
         cin >> c;
